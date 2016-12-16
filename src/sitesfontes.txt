@@ -1,0 +1,5 @@
+https://github.com/jimbobmaggot/Pong/tree/master/src/com/game/base/uncategorized
+http://stackoverflow.com/questions/15865087/java-2d-game-dev-multiple-key-input
+http://stackoverflow.com/questions/10465620/java2d-games-how-to-handle-keyboard-correctly
+https://www.youtube.com/watch?v=hIexVBm1cag&list=PLJSII25WrAz44w9JffTBmleWutzjj4CGh
+http://www.devmedia.com.br/introducao-a-java-2d/29625
